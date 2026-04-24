@@ -2,6 +2,12 @@
 
 Prabhu Manoharan built the Unlock-PDF app as an Ad Supported app. This SERVICE is provided by Prabhu Manoharan at no cost and is intended for use as is.
 
+This app does not collect, store, or share any personal data directly. All PDF processing is performed locally on your device and files are not uploaded to any server.
+
+This app uses Google AdMob to display advertisements. AdMob may collect anonymized data such as device information, IP address, and usage statistics to provide relevant ads.
+
+On iOS devices, this app may request permission to track your activity across apps and websites (App Tracking Transparency) to improve ad experience. You can choose to allow or deny this permission.
+
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
@@ -55,7 +61,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-01-01
+This policy is effective as of 2026-01-01
 
 **Contact Us**
 
